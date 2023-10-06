@@ -1,5 +1,5 @@
 <?php
-$titre = "reseau social";
+$titre = "réseau social";
 ?>
 <!DOCTYPE html>
 <html lang="fr">
